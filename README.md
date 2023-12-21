@@ -1,6 +1,6 @@
-Inoder to run the project in localhost directly clone the file from github to localhost.
-Install all the dependencies using **npm i** command in the terminal.
-To run it in the browser use **npm start** command in the terminal.
+Inoder to run the project in localhost directly clone the file from github to localhost
+Install all the dependencies using **npm i** command in the terminal
+To run it in the browser use **npm start** command in the terminal
 
 # Main page
 ![image](https://github.com/deepanshu51/Frontend-Assignment/assets/90763271/a83971de-a5b0-410f-a1c4-55b07af5ddd2)
